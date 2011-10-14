@@ -1,0 +1,20 @@
+file 4752 1294785869                                            
+version 2
+run Eight-0-20100408-14:34:13-4262
+attr configname Eight
+attr datetime 20100408-14:34:13
+attr experiment Eight
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network sim
+attr processid 4262
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+vector 1  sim.host[0].batteryStats  capacity  ETV
+attr unit mW-s
+1	419 4333 0 412 0 15 302 0 10800 1008180 7027455600

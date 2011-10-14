@@ -1,0 +1,58 @@
+                                                                
+version 2
+run config1-0-20110112-02:07:45-5620
+attr configname config1
+attr datetime 20110112-02:07:45
+attr experiment config1
+attr inifile D:/sim/omnetpp-4.1/samples/mixim-sommer/examples/traci_launchd/omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network scenario
+attr processid 5620
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 1  scenario.node[0].mobility  posx  ETV
+vector 2  scenario.node[0].mobility  posy  ETV
+vector 3  scenario.node[0].mobility  speed  ETV
+vector 4  scenario.node[0].mobility  acceleration  ETV
+vector 5  scenario.node[0].mobility  co2emission  ETV
+vector 7  scenario.node[1].mobility  posx  ETV
+vector 8  scenario.node[1].mobility  posy  ETV
+vector 9  scenario.node[1].mobility  speed  ETV
+vector 10  scenario.node[1].mobility  acceleration  ETV
+vector 11  scenario.node[1].mobility  co2emission  ETV
+vector 13  scenario.node[2].mobility  posx  ETV
+vector 14  scenario.node[2].mobility  posy  ETV
+vector 15  scenario.node[2].mobility  speed  ETV
+vector 16  scenario.node[2].mobility  acceleration  ETV
+vector 17  scenario.node[2].mobility  co2emission  ETV
+vector 19  scenario.node[3].mobility  posx  ETV
+vector 20  scenario.node[3].mobility  posy  ETV
+vector 21  scenario.node[3].mobility  speed  ETV
+vector 22  scenario.node[3].mobility  acceleration  ETV
+vector 23  scenario.node[3].mobility  co2emission  ETV
+5	1480 230 2 121 1 10 10 0.973 2.9200026733404 17.761077738588 35.452253272502
+4	1710 253 2 121 1 10 10 -0.32990598678589 2.0190417766571 5.1856470108032 8.856622936601
+3	1963 250 1 121 0 10 11 0 5.5155529975891 46.397062540054 224.9147889126
+2	2213 247 1 121 0 10 11 0 6029.8736572266 60166.224975586 361998388.75159
+1	2460 250 1 121 0 10 11 0 7543.0239648819 75297.726465225 566975687.05892
+11	2710 159 5 121 4 10 7 0.973 3.2985343418301 13.473959207319 30.726230125402
+10	2869 185 5 121 4 10 7 -0.52205419540405 1.9619319438934 4.9395136833191 9.601019081946
+9	3054 181 4 121 3 10 8 0 5.3268179893494 31.016413450241 146.28327061178
+8	3235 179 4 121 3 10 8 0 6051.4047851563 42302.642944336 255645085.9603
+7	3414 181 4 121 3 10 8 0 7519.8433008194 52580.40066433 394957232.64059
+17	3595 95 111 121 7 10 4 0.973 3.5787049295815 9.4232577891024 25.627039758652
+16	3690 107 111 121 7 10 4 -0.38491821289063 2.1931045055389 4.9234919548035 9.8623213236111
+15	3797 116 76 121 6 10 5 0 5.3084101676941 16.01469373703 70.115552450182
+14	3913 116 76 121 6 10 5 0 6073.8104248047 24281.373657227 147396313.90076
+13	4029 116 76 121 6 10 5 0 7497.5400781631 29977.074375153 224656280.16979
+23	4145 27 121 121 10 10 1 2.3770107995811 2.3770107995811 2.3770107995811 5.6501803413252
+22	4172 27 121 121 10 10 1 2.1940996646881 2.1940996646881 2.1940996646881 4.8140733385845
+21	4199 39 113 121 9 10 2 0 2.1940996646881 2.1940996646881 4.8140733385845
+20	4238 39 113 121 9 10 2 0 6029.8736572266 6029.8736572266 36359376.322115
+19	4277 39 113 121 9 10 2 0 7543.0239648819 7543.0239648819 56897210.534783

@@ -1,0 +1,23 @@
+file 206221 1303843777                                          
+version 2
+run Five-0-20110329-15:17:52-9091
+attr configname Five
+attr datetime 20110329-15:17:52
+attr experiment Five
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network sim
+attr processid 9091
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+vector 2  sim.host[0].batteryStats  capacity(relative)  ETV
+2	551 86267 0 17896 0 10 2255 0.705846155556 1 1933.4207403283 1673.6231047912
+vector 8  sim.host[1].batteryStats  capacity(relative)  ETV
+8	86818 86203 0 17896 0 10 2252 0.701689755556 1 1919.5214660086 1652.4331677622
+vector 14  sim.host[2].batteryStats  capacity(relative)  ETV
+14	173021 33200 0 7478 0 3.185093084384 835 0 0.1 39.913035362146 2.5520066015156

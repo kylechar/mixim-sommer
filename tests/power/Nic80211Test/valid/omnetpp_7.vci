@@ -1,0 +1,23 @@
+file 7938 1303843777                                            
+version 2
+run Seven-0-20110329-15:17:54-9093
+attr configname Seven
+attr datetime 20110329-15:17:54
+attr experiment Seven
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network sim
+attr processid 9093
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+vector 2  sim.host[0].batteryStats  capacity(relative)  ETV
+2	554 2867 0 427 0 7.3 103 0 1 48.663760921681 31.7806615029
+vector 8  sim.host[1].batteryStats  capacity(relative)  ETV
+8	3421 2864 0 428 0 7.3 103 0 1 48.663747152793 31.780650845723
+vector 14  sim.host[2].batteryStats  capacity(relative)  ETV
+14	6285 1653 0 278 0 3.7 57 0 0.5 11.347291025193 3.5175271595077

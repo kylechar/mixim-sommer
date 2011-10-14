@@ -1,0 +1,21 @@
+file 1319 1303843777                                            
+version 2
+run Three-0-20110329-15:17:50-9089
+attr configname Three
+attr datetime 20110329-15:17:50
+attr experiment Three
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network sim
+attr processid 9089
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+vector 2  sim.host[0].batteryStats  capacity(relative)  ETV
+2	492 425 0 60 0 10 17 0.664999771733 0.666666666667 11.31872539888 7.5360963649476
+vector 8  sim.host[1].batteryStats  capacity(relative)  ETV
+8	917 402 0 60 0 10 16 0.664999771733 0.666666666667 10.653726540213 7.0938728842778

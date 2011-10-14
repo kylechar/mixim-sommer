@@ -1,0 +1,27 @@
+file 2118 1294785869                                            
+version 2
+run Eleven-0-20100408-14:34:14-4265
+attr configname Eleven
+attr datetime 20100408-14:34:14
+attr experiment Eleven
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network sim
+attr processid 4265
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+vector 1  sim.host[0].batteryStats  capacity  ETV
+attr unit mW-s
+1	608 340 0 127 0 15 27 0 10800 109380 794343600
+vector 2  sim.host[0].batteryStats  capacity(relative)  ETV
+2	948 415 0 127 0 15 27 0 1 10.1277771 6.8102153117297
+vector 3  sim.host[0].batteryStats  estimate  ETV
+attr unit mW-s
+3	1363 340 0 127 0 15 27 0 10800 109380 794343600
+vector 4  sim.host[0].batteryStats  estimate(relative)  ETV
+4	1703 415 0 127 0 15 27 0 1 10.1277771 6.8102153117297

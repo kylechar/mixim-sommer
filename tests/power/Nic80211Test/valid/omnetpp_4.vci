@@ -1,0 +1,23 @@
+file 8306 1303843777                                            
+version 2
+run Four-0-20110329-15:17:50-9090
+attr configname Four
+attr datetime 20110329-15:17:50
+attr experiment Four
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network sim
+attr processid 9090
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+vector 2  sim.host[0].batteryStats  capacity(relative)  ETV
+2	551 2556 0 45352 0 9.9 100 0.392900433333 1 76.775533670065 63.642875801047
+vector 8  sim.host[1].batteryStats  capacity(relative)  ETV
+8	3107 2556 0 45353 0 9.9 100 0.393159455556 1 76.405748687369 63.046020393029
+vector 14  sim.host[2].batteryStats  capacity(relative)  ETV
+14	5663 2643 0 45354 0 9.9 100 0.392204288889 1 76.818044450488 63.691748366757
